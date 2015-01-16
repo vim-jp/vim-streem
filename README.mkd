@@ -2,6 +2,8 @@
 
 This is Vim syntax files with [streem-lang](https://github.com/matz/streem).
 
+![](http://go-gyazo.appspot.com/1e4772434df3b4c0.png)
+
 ## License
 
 MIT
