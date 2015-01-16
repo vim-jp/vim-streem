@@ -1,6 +1,6 @@
 " Vim syntax file
 " Language:   streem
-" Maintainer: vim-jp (https://github.com/vim-jp/cpp-vim)
+" Maintainer: vim-jp (http://vim-jp.org/)
 " URL:        https://github.com/vim-jp/vim-streem
 
 if exists("b:current_syntax")
