@@ -1,0 +1,11 @@
+# vim-streem
+
+This is Vim syntax files with [streem-lang](https://github.com/matz/streem).
+
+## License
+
+MIT
+
+## Authors
+
+[vim-jp](https://vim-jp.org/)
