@@ -8,4 +8,4 @@ MIT
 
 ## Authors
 
-[vim-jp](https://vim-jp.org/)
+[vim-jp](http://vim-jp.org/)
